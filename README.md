@@ -38,8 +38,8 @@ ops@mediabirodalom.com címre a következő formátumban:
 
     Tárgy: Dinamikus DNS igenyles
 
-    Teljes nev: A teljes neved
-    Felhasznalonev: userneved
+    Teljes név: A teljes neved
+    Felhasználónév: userneved
     Domain: otthon.mintadomain.hu
     Kulcs: a kulcsod
 
