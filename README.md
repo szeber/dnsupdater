@@ -43,6 +43,16 @@ ops@mediabirodalom.com címre a következő formátumban:
     Domain: otthon.mintadomain.hu
     Kulcs: a kulcsod
 
+    Büntetőjogi felelősségem tudatában kijelentem, hogy a fent megadott név
+    az én teljes nevem, a megnevezett domain tulajdonjoga vagy rendelkezési
+    joga nálam van. Elfogadom, hogy a Médiabirodalom DNS szolgáltatás
+    non-profit jellegéből adódóan a szolgáltatásért semmilyen felelősséget
+    nem vállal. Elfogadom, hogy az üzemeltetők fenntartják a jogot, hogy
+    bármely accountot akár előzetes értesítés nélkül is felfüggesszenek.
+    Elfogadom, hogy a szolgáltatás szigorúan csak magáncélra (fejlesztéshez,
+    stb) használható, a projekt üzemeltetői a jelentős DNS forgalmat
+    generáló accountokat felfüggeszthetik.
+
 Fontos, hogy a Médiabirodalom regisztráció a teljes polgári nevedet
 tartalmazza. A domainedhez tartozó beállítást 1-3 munkanapon belül csináljuk
 meg.
