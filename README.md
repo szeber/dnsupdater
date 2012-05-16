@@ -50,6 +50,6 @@ meg.
 Használat
 ---------
 
-Az ip-update.sh scriptet 5 percenként futtasd cronból:
+Az update-ip.sh scriptet 5 percenként futtasd cronból:
 
     */5 * * * * /usr/local/mediabirodalom/update-ip.sh
