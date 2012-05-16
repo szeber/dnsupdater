@@ -14,8 +14,8 @@ lesz egy domain névre, ami alatt aldomaint tudsz létrehozni.
 
 Először is állítsd be a domain nevedet a szolgáltatód DNS szerverén például így:
 
-otthon.mintadomain.hu. IN NS ns1.dyn.iptool.eu
-otthon.mintadomain.hu. IN NS ns2.dyn.iptool.eu
+    otthon.mintadomain.hu. IN NS ns1.dyn.iptool.eu
+    otthon.mintadomain.hu. IN NS ns2.dyn.iptool.eu
 
 Ezek után generálj egy HMAC kulcsot. Ezt legegyszerűbben a dnssec-keygen
 utilityvel tudod megcsinálni:
