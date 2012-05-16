@@ -43,8 +43,9 @@ ops@mediabirodalom.com címre a következő formátumban:
     Domain: otthon.mintadomain.hu
     Kulcs: a kulcsod
 
-Fontos, hogy a Médiabirodalom a teljes polgári nevedet tartalmazza. A
-domainedhez tartozó beállítást 1-3 munkanapon belül csináljuk meg.
+Fontos, hogy a Médiabirodalom regisztráció a teljes polgári nevedet
+tartalmazza. A domainedhez tartozó beállítást 1-3 munkanapon belül csináljuk
+meg.
 
 Használat
 ---------
