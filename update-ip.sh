@@ -1,10 +1,10 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # A wget parancs eleresi utja.
-WGET=/usr/bin/wget
+WGET=`/usr/bin/env which wget`
 
 # Az nsupdate parancs eleresi utja.
-NSUPDATE=/usr/bin/nsupdate
+NSUPDATE=`/usr/bin/env which nsupdate`
 
 # A domain nev, amit frissiteni kell.
 DOMAIN=
@@ -28,13 +28,13 @@ DNSSERVER=dyn.iptool.eu
 # Innentol ne modosits                                                        +
 ###############################################################################
 
-if [ ! -f $WGET ]; then
+if [[ $WGET == "" || ! -f $WGET ]]; then
 	echo "wget is not installed." >&2
 	echo "This is required to determine the public IP address of your host." >&2
 	exit 1
 fi
 
-if [ ! -f $NSUPDATE ]; then
+if [[ $NSUPDATE == "" || ! -f $NSUPDATE ]]; then
 	echo "nsupdate is not installed." >&2
 	echo "This is required to update the DNS records." >&2
 	exit 1
